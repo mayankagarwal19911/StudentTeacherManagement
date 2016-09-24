@@ -1,0 +1,2 @@
+<p class="text-center">Signup as a Teacher<a href="publisher/register.jsp" class="btn btn-action">Signup</a></p><br>
+<p class="text-center">Signup as a Student<a href="seeker/register.jsp" class="btn btn-action">Signup</a></p>
